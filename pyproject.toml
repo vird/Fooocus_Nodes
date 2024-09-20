@@ -1,5 +1,5 @@
 [project]
-name = "fooocus_nodes"
+name = "fooocus_nodes2"
 description = "This extension provides image generation features based on Fooocus."
 version = "1.0.2"
 license = "LICENSE"
@@ -11,5 +11,5 @@ Repository = "https://github.com/vird/Fooocus_Nodes"
 
 [tool.comfy]
 PublisherId = "vird"
-DisplayName = "Fooocus_Nodes"
+DisplayName = "Fooocus_Nodes2"
 Icon = ""
