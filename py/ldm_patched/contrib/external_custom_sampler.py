@@ -285,16 +285,16 @@ class SamplerCustom:
         return (out, out_denoised)
 
 NODE_CLASS_MAPPINGS = {
-    "SamplerCustom": SamplerCustom,
-    "BasicScheduler": BasicScheduler,
-    "KarrasScheduler": KarrasScheduler,
-    "ExponentialScheduler": ExponentialScheduler,
-    "PolyexponentialScheduler": PolyexponentialScheduler,
-    "VPScheduler": VPScheduler,
-    "SDTurboScheduler": SDTurboScheduler,
-    "KSamplerSelect": KSamplerSelect,
-    "SamplerDPMPP_2M_SDE": SamplerDPMPP_2M_SDE,
-    "SamplerDPMPP_SDE": SamplerDPMPP_SDE,
-    "SplitSigmas": SplitSigmas,
-    "FlipSigmas": FlipSigmas,
+    "SamplerCustom2": SamplerCustom,
+    "BasicScheduler2": BasicScheduler,
+    "KarrasScheduler2": KarrasScheduler,
+    "ExponentialScheduler2": ExponentialScheduler,
+    "PolyexponentialScheduler2": PolyexponentialScheduler,
+    "VPScheduler2": VPScheduler,
+    "SDTurboScheduler2": SDTurboScheduler,
+    "KSamplerSelect2": KSamplerSelect,
+    "SamplerDPMPP_2M_SDE2": SamplerDPMPP_2M_SDE,
+    "SamplerDPMPP_SDE2": SamplerDPMPP_SDE,
+    "SplitSigmas2": SplitSigmas,
+    "FlipSigmas2": FlipSigmas,
 }
